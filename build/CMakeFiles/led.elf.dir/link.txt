@@ -1,1 +1,0 @@
-/usr/bin/arm-none-eabi-gcc  -O0 -g -nostartfiles -mcpu=cortex-m4 -mthumb -march=armv7e-m -O0 -g -nostartfiles -mcpu=cortex-m4 -mthumb -march=armv7e-m -T /home/basavaraj/ARM/scheduler/linker.ld CMakeFiles/led.elf.dir/main.c.obj CMakeFiles/led.elf.dir/start_up.s.obj -o led.elf 
